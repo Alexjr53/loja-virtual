@@ -5,3 +5,18 @@ header{
 .section{
     padding: 10rem 0;
 }
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+.carousel-caption h5{
+    font-size: 40px;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px black;
+}
+
+.carousel-caption p{
+    font-size: 22px;
+
+}
