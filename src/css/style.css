@@ -20,3 +20,14 @@ header{
     font-size: 22px;
 
 }
+
+.card-img-fixed-height {
+    height: 300px;
+    object-fit: cover; 
+}
+
+@media(max-width: 1170px){
+    header{
+        min-height: 0;
+    }
+}
